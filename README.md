@@ -17,10 +17,5 @@ HTML5
 CSS
 JAVASCRIPT
 
-App Look:
-
-
-
-
 App Link:
 https://dulcet-panda-7256bb.netlify.app/
