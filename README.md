@@ -1,7 +1,5 @@
 TuneWave:
 This app is based on html5,css and javascript.
-
-<<<<<<< HEAD
 Features:
 Play/Pause: Allows users to toggle between playing and pausing the audio using a play/pause button.
 Next/Previous Track: Enables users to navigate between tracks in the playlist with forward and backward buttons.
@@ -15,6 +13,7 @@ CSS
 JAVASCRIPT
 
 App Look:
-=======
+
+
+App Link:
 #Deploy link:https://dulcet-panda-7256bb.netlify.app/
->>>>>>> 0b26f2b4cab821f6181e1b44bb20e042798ee098
