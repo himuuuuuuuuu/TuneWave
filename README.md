@@ -14,7 +14,7 @@ Like Button: Allows users to like or unlike a song by clicking on a heart icon. 
 
 Tech Stack:
 HTML5
-CSS
+CSS3
 JAVASCRIPT
 
 App Link:
