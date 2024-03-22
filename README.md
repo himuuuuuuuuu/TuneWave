@@ -22,4 +22,4 @@ App Look:
 
 
 App Link:
-#Deploy link:https://dulcet-panda-7256bb.netlify.app/
+https://dulcet-panda-7256bb.netlify.app/
